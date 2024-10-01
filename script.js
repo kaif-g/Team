@@ -258,7 +258,11 @@ function showSection(section) {
     ;
     teamContainer.appendChild(categoryTitle);
 
-
+      addMember('hema', 'K.NANDHINI ', 'Dept: ECE<br>Team: CONTENT CREATION ', './image/nandinik.jpg', {
+        instagram: '#',
+        github: '#',
+        linkedin: '#'
+    });
     addMember('hema', 'MANOJ KUMAR', 'Dept: ECE<br>Team: CONTENT CREATION ', './image/manoj.jpg', {
         instagram: '#',
         github: '#',
