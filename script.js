@@ -128,15 +128,15 @@ function showSection(section) {
        
         categoryTitle = document.createElement('div');
         categoryTitle.className = 'category-title';
-        categoryTitle.innerHTML = 'Hospilatily Team';
+        categoryTitle.innerHTML = 'Hospitality Team';
         teamContainer.appendChild(categoryTitle);
 
-        addMember('poojitha', 'B.POOJITHA', 'Dept: ECE<br>Team: HOSPILATILY', './image/poojitha.jpg', {
+        addMember('poojitha', 'B.POOJITHA', 'Dept: ECE<br>Team: HOSPITALITY', './image/poojitha.jpg', {
             instagram: '#',
             github: '#',
             linkedin: '#'
         });
-        addMember('C.BHAVANA', 'C.BHAVANA', 'Dept: ECE<br>Team:HOSPILATILY ', './image/bhavana.jpg', {
+        addMember('C.BHAVANA', 'C.BHAVANA', 'Dept: ECE<br>Team:HOSPITALITY ', './image/bhavana.jpg', {
             instagram: '#',
             github: '#',
             linkedin: '#'
@@ -197,12 +197,12 @@ function showSection(section) {
         
         categoryTitle = document.createElement('div');
         categoryTitle.className = 'category-title';
-        categoryTitle.innerHTML = 'Team Fedback and Evalution';
+        categoryTitle.innerHTML = 'Team Feedback and Evaluation';
         ;
         teamContainer.appendChild(categoryTitle);
 
         
-        addMember('hema', 'SAI GANESH', 'Dept: ECE<br>Team: FEDBACK & EVALUTION', './image/saiganesh.jpg', {
+        addMember('hema', 'SAI GANESH', 'Dept: ECE<br>Team: FEEDBACK & EVALUATION', './image/saiganesh.jpg', {
             instagram: '#',
             github: '#',
             linkedin: '#'
@@ -210,16 +210,16 @@ function showSection(section) {
        
         categoryTitle = document.createElement('div');
         categoryTitle.className = 'category-title';
-        categoryTitle.innerHTML = 'DISIPILARY TEAM';
+        categoryTitle.innerHTML = 'DISCIPLINARY TEAM';
         ;
         teamContainer.appendChild(categoryTitle);
 
-        addMember('hema', 'G.LEELADHAR', 'Dept: ECE<br>Team:  DISIPILARY ', './image/leeladhar.jpg', {
+        addMember('hema', 'G.LEELADHAR', 'Dept: ECE<br>Team: DISCIPLINARY', './image/leeladhar.jpg', {
             instagram: '#',
             github: '#',
             linkedin: '#'
         });
-        addMember('hema', 'T.MOHITH REDDY ', 'Dept: ECE<br>Team: DISIPILARY', './image/mohith.jpg', {
+        addMember('hema', 'T.MOHITH REDDY ', 'Dept: ECE<br>Team: DISCIPLINARY', './image/mohith.jpg', {
             instagram: '#',
             github: '#',
             linkedin: '#'
@@ -271,27 +271,27 @@ function showSection(section) {
     
     categoryTitle = document.createElement('div');
     categoryTitle.className = 'category-title';
-    categoryTitle.innerHTML = 'DOCUMETATION TEAM';
+    categoryTitle.innerHTML = 'DOCUMENTATION TEAM';
 
     ;
     teamContainer.appendChild(categoryTitle);
 
-    addMember('hema', 'D.NANDHINI ', 'Dept: ECE<br>Team: DOCUMETATION  ', './image/nandhinid.jpg', {
+    addMember('hema', 'D.NANDHINI ', 'Dept: ECE<br>Team: DOCUMENTATION  ', './image/nandhinid.jpg', {
         instagram: '#',
         github: '#',
         linkedin: '#'
     });
-    addMember('hema', 'CHATHRAPATHI', 'Dept: ECE<br>Team: DOCUMETATION  ', './image/chat.jpg', {
+    addMember('hema', 'CHATHRAPATHI', 'Dept: ECE<br>Team: DOCUMENTATION  ', './image/chat.jpg', {
         instagram: '#',
         github: '#',
         linkedin: '#'
     });
-    addMember('K.BALAJI SAI VRUSHADREE', 'K.BALAJI SAI VRUSHADREE', 'Dept: ECE<br>TEAM:DOCUMETATION', './image/sai.jpg', {
+    addMember('K.BALAJI SAI VRUSHADREE', 'K.BALAJI SAI VRUSHADREE', 'Dept: ECE<br>TEAM:DOCUMENTATION', './image/sai.jpg', {
         instagram: '#',
         github: '#',
         linkedin: '#'
     });
-    addMember('hema', 'R.CHARAN ', 'Dept: ECE<br>Team: DOCUMETATION  ', './image/charan.jpg', {
+    addMember('hema', 'R.CHARAN ', 'Dept: ECE<br>Team: DOCUMENTATION  ', './image/charan.jpg', {
         instagram: '#',
         github: '#',
         linkedin: '#'
